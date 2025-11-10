@@ -1,0 +1,52 @@
+[
+  {
+    "eventName": "$pageview",
+    "description": "Automatic pageview tracking for all routes (client-side)",
+    "filePath": "/Users/kefamutuma/Projects/learn-next-js/next-16/next-events-app/app/providers/posthog-pageview.tsx"
+  },
+  {
+    "eventName": "event_card_clicked",
+    "description": "User clicked on an event card to view event details",
+    "filePath": "/Users/kefamutuma/Projects/learn-next-js/next-16/next-events-app/components/EventCard.tsx"
+  },
+  {
+    "eventName": "explore_events_clicked",
+    "description": "User clicked the 'Explore Events' button on the homepage",
+    "filePath": "/Users/kefamutuma/Projects/learn-next-js/next-16/next-events-app/components/ExploreBtn.tsx"
+  },
+  {
+    "eventName": "create_event_nav_clicked",
+    "description": "User clicked 'Create Event' in navigation (top of conversion funnel)",
+    "filePath": "/Users/kefamutuma/Projects/learn-next-js/next-16/next-events-app/components/Navbar.tsx"
+  },
+  {
+    "eventName": "events_nav_clicked",
+    "description": "User clicked 'Events' in navigation to browse all events",
+    "filePath": "/Users/kefamutuma/Projects/learn-next-js/next-16/next-events-app/components/Navbar.tsx"
+  },
+  {
+    "eventName": "logo_clicked",
+    "description": "User clicked the logo to return to homepage",
+    "filePath": "/Users/kefamutuma/Projects/learn-next-js/next-16/next-events-app/components/Navbar.tsx"
+  },
+  {
+    "eventName": "user_profile_clicked",
+    "description": "User clicked to view a specific user profile from the users list",
+    "filePath": "/Users/kefamutuma/Projects/learn-next-js/next-16/next-events-app/app/(dashboard)/dashboard/users/page.tsx"
+  },
+  {
+    "eventName": "users_list_viewed",
+    "description": "User viewed the users list page - indicates admin or management activity",
+    "filePath": "/Users/kefamutuma/Projects/learn-next-js/next-16/next-events-app/app/(dashboard)/dashboard/users/page.tsx"
+  },
+  {
+    "eventName": "error_occurred",
+    "description": "Application error occurred and was caught by error boundary",
+    "filePath": "/Users/kefamutuma/Projects/learn-next-js/next-16/next-events-app/app/(root)/error.tsx"
+  },
+  {
+    "eventName": "error_recovery_attempted",
+    "description": "User clicked 'Try again' button after encountering an error (recovery attempt)",
+    "filePath": "/Users/kefamutuma/Projects/learn-next-js/next-16/next-events-app/app/(root)/error.tsx"
+  }
+]
